@@ -5,7 +5,7 @@ main:
   - title: "About"
     url: /_pages/about/
   - title: "Blog"
-    url: /_pages/blog/
+    url: /blog/
     description: "ham"
   # - title: "Sample Collections"
   #   url: /collection-archive/
