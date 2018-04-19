@@ -1,5 +1,5 @@
 ---
-title:  "Publication...s"
+title:  "Preprints"
 layout: archive
 permalink: /pub/
 author_profile: true
