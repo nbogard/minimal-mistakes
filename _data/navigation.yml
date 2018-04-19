@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: https://nbogard.github.io
   - title: "About"
-    url: /_pages/about/
+    url: /about/
   - title: "Blog"
     url: /blog/
     description: "ham"
