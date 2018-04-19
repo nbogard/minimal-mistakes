@@ -1,14 +1,19 @@
 # main links
 main:
+
   - title: "Home"
     url: https://nbogard.github.io
+
   - title: "About"
     url: /about/
+
   - title: "Research"
     url: /research/
+
   - title: "Pub"
     url: /pub/
-    description: "ham"  
+    description: "turkey"
+
   - title: "Blog"
     url: /blog/
     description: "ham"
