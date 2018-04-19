@@ -1,7 +1,7 @@
 ---
 title:  "Publication...s"
 layout: archive
-permalink: /about/
+permalink: /pub/
 author_profile: true
 comments: true
 ---
