@@ -4,6 +4,8 @@ main:
     url: https://nbogard.github.io
   - title: "About"
     url: /about/
+  - title: "Research"
+    url: /research/
   - title: "Pub"
     url: /pub/
     description: "ham"  
