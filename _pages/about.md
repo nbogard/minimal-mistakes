@@ -6,4 +6,4 @@ author_profile: true
 comments: true
 ---
 
-Singapore.
+KS > CA > KS > SG > WA
