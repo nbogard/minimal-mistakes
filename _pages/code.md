@@ -10,7 +10,7 @@ Singularity-level Function
 
 ```python
 def tgca():
-  return ''.join(['A','C','G','T'][::-1])
+    return ''.join(['A','C','G','T'][::-1])
 ```
 
 ```python
