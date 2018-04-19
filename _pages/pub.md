@@ -1,6 +1,7 @@
 ---
 title:  "Preprints"
 layout: archive
+classes: wide
 permalink: /pub/
 author_profile: true
 comments: true
