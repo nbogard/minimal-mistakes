@@ -97,7 +97,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nicholas (Nick) \nBogard"
+  name             : "Nicholas (Nick) <br/>Bogard"
   avatar           : "/assets/images/icon_aparent_head.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Jayhawker, Geneticist"
   location         : "Seattle, WA, USA"
