@@ -102,7 +102,7 @@ author:
   bio              : "Jayhawker, Geneticist"
   location         : "Seattle, WA, USA"
   email            :
-  uri              : "<a href='https://www.seeliglab.org'>Seelig Lab</a>"
+  uri              : "https://www.seeliglab.org"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
