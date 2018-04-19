@@ -4,4 +4,4 @@ title:  "suRNAme-Seq"
 date:   2018-04-18
 ---
 
-AACTGAGTxTGAGGGoTxxGGAACCCoAxA
+oxAACTGAGTxTGAGGGoTxxGGAACCCoAxA...
