@@ -12,3 +12,8 @@ Singularity-level Function
 def tgca():
 	return ''.join(['A','C','G','T'][::-1])
 ```
+
+```python
+sorted(list(tgca()))[::-2]
+```
+    ['T', 'C']
