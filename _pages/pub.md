@@ -8,4 +8,4 @@ comments: true
 
 Predicting the Impact of cis-Regulatory Variation on Alternative Polyadenylation
 Nicholas Bogard, Johannes Linder, Alexander B Rosenberg, Georg Seelig
-doi: https://doi.org/10.1101/300061
+doi: <a href="https://doi.org/10.1101/300061"/a>
